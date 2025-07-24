@@ -16,7 +16,7 @@
 ### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
 
 ****
-### Team Formation Instructions
+### Team Formation Instructions- Complete this exercise by today July 24, 2025.
 - Please form teams of 4 members each.
 - Only ONE member per team needs to fill out the registration form on behalf of the entire team. 
 - [Form link](https://forms.office.com/r/2Kq0TXtkp7)
