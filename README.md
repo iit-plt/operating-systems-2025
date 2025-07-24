@@ -16,7 +16,7 @@
 ### [Download Assignment-1]()
 ### [Other files required for Lab-1]()
 
-### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 01-08-2024 with TA. TA-Group mapping for Lab-1 can be viewed [here]()
+### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 01-08-2025 with TA. TA-Group mapping for Lab-1 can be viewed [here]()
 -->
 
 [Click here to check your attendance]()
