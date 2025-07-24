@@ -12,9 +12,15 @@
 
 ### 24-07-2025 - Lab-1 (Due on 04.08.2025, Timing: 11:59 pm)
 ### Evaluation on 05.08.2025
-### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVWB9CpY6gpFn-lhBuWsYOgBLWc24EcI8-54lqC8QOuZYQ?e=ofqW1v) 
-### [Download Assignment-1]()
-### [Other files required for Lab-1]()
+### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBDEwVC_9xdZqdh8b3dkRnWw?e=OvqALL) 
+### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
+
+****
+### Team Formation Instructions
+- Please form teams of 4 members each.
+- Only ONE member per team needs to fill out the registration form on behalf of the entire team. 
+- [Form link](https://forms.office.com/r/2Kq0TXtkp7)
+****
 
 ### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 01-08-2025 with TA. TA-Group mapping for Lab-1 can be viewed [here]()
 -->
