@@ -20,7 +20,7 @@
 - Please form teams of 4 members each.
 - Only ONE member per team needs to fill out the registration form on behalf of the entire team. 
 - [Form link](https://forms.office.com/r/2Kq0TXtkp7)
-- 
+
 ****
 
 <!--
