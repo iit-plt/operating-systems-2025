@@ -10,10 +10,11 @@
 #### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 ****
 
-### 17-10-2024 - Lab -4 (Due on 30.10.2029, Timing: 9:00 am)
-### Evaluation on 30.10.2029
-### [Download Assignment-4](https://drive.google.com/file/d/13iVvtccDkz93LFBJrQDwQyT15MBV--4x/view?usp=drive_link)
-### [Other files required for Lab-4](https://drive.google.com/file/d/1RuJ3I8-fjTJBvSED3CEoLcx6d-Q-fmTk/view?usp=drive_link)
+### 24-07-2025 - Lab-1 (Due on 04.08.2025, Timing: 11:59 pm)
+### Evaluation on 05.08.2025
+### [Installation Guide Xv6]()
+### [Download Assignment-1]()
+### [Other files required for Lab-1]()
 
 ### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 07-08-2024 with TA anytime between 9:00 am to 11:00 am. TA-Group mapping for Lab-1 can be viewed [here](https://docs.google.com/spreadsheets/d/10gqSMxjziefn0vKXP5e5VJfUdv988R-HLR8cck7sXzo/edit?usp=sharing)
 -->
