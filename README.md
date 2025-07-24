@@ -12,7 +12,7 @@
 
 ### 24-07-2025 - Lab-1 (Due on 04.08.2025, Timing: 11:59 pm)
 ### Evaluation on 05.08.2025
-### [Installation Guide Xv6]()
+### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVWB9CpY6gpFn-lhBuWsYOgBLWc24EcI8-54lqC8QOuZYQ?e=ofqW1v) 
 ### [Download Assignment-1]()
 ### [Other files required for Lab-1]()
 
