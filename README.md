@@ -34,5 +34,5 @@
 | Lec. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
 | 1       |  24-07-2025            | Introduction to OS| [24-7-2025]() |  |
-| 2       |  24-07-2025            | Lab Policies| [24-7-2025](https://iitgoffice-my.sharepoint.com/:p:/g/personal/phrangboklang_iitg_ac_in/EeljhC1PKo9DrWFxM4ZeweQBjD-Y9j2EgVdn7lCAmn53yA?e=TqZ9pR) |  |
+| 2       |  24-07-2025            | Lab Policies| [24-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfYS1dlj7uNGsZ48JbaIWx4BppD98txTKxyxUeWixoavmw?e=M6E3Re) |  |
 
