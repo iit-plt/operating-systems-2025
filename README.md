@@ -16,6 +16,17 @@
 ### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
 
 ****
+
+### Lab Report Guidelines
+- **Keep it concise**: Your report should be brief and to the point, clearly explaining what was done and why it was done.
+- ⁠**Page Limit**: Unless explicitly stated otherwise in the assignment document, your report should be no more than 10 pages in length.
+- **Code and Changes**: For code-heavy assignments, avoid pasting the entire code into the report. Instead, include relevant code snippets and highlight where you've made changes (e.g., by mentioning the function name, specific line numbers, or adding comments within the snippet).
+- ⁠**Cite Your Sources**: Any information, ideas, or data that are not your own original work or common knowledge must be properly cited.
+- **Avoid Plagiarism**: Always put information into your own words and cite the source. Plagiarism is a serious academic offence.
+- **Tone**: Maintain an objective and scientific tone throughout the report. Avoid informal language or personal opinions.
+  
+****
+
 ### Team Formation Instructions- Complete this exercise by today July 24, 2025.
 - Please form teams of 4 members each.
 - Only ONE member per team needs to fill out the registration form on behalf of the entire team. 
