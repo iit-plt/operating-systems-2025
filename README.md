@@ -5,9 +5,12 @@
 ## Syllabus- [Click here](https://drive.google.com/file/d/1xkjVAa2I4pGDZfQ2o_TF39lp-MwAvKFZ/view?usp=sharing)
 -->
 ### Textbooks
+
+#### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
+####  Andrew S. Tanenbaum, Modern Operating System. 3/e. Pearson, 2007.
+####  William Stallings, Operating Systems: Internals and Design Principles. 6/e. Pearson, 2008.
 #### [OSTEP - Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)- Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 #### [Xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2024/xv6/book-riscv-rev4.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
-#### [Operating System Concepts](https://os.ecci.ucr.ac.cr/slides/Abraham-Silberschatz-Operating-System-Concepts-10th-2018.pdf)- ABRAHAM SILBERSCHATZ, PETER BAER GALVIN, GREG GAGNE
 ****
 
 ### 24-07-2025 - Lab-1 (Due on 04.08.2025, Timing: 11:59 pm)
