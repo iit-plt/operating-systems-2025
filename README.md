@@ -44,6 +44,9 @@
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
-| 1       |  24-07-2025            | Introduction to OS| [24-7-2025]() |  |
-| 2       |  24-07-2025            | Lab Policies| [24-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfYS1dlj7uNGsZ48JbaIWx4BppD98txTKxyxUeWixoavmw?e=M6E3Re) |  |
+| 0       |  24-07-2025            | Introduction to OS| [24-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EefgNJINm1lJjWs7mB3iZYIBMV_xMVJ6SYmK3ud3zXKpfQ?e=UscpmN) |  |
+| 0       |  24-07-2025            | Lab Policies| [24-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfYS1dlj7uNGsZ48JbaIWx4BppD98txTKxyxUeWixoavmw?e=M6E3Re) |  |
+| 1       |  25-07-2025            | Classifications and Service| [25-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVDBmxOQ_XdMmfk9S1GZah0BhUQfu9XAO_Z6Au7bwFYIZQ?e=v5Llb0) |  |
+| 2       |  28-07-2025            | Introduction to Process States| [28-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ET3gVtZugItBivtgv0tdNEABfiVj5jSAQe7WOaNyUM7UBA?e=rAdI1D) |  |
+| 3       |  29-07-2025            | Introduction to CPU Scheduling| [29-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETEsMa7nrylJhu_n6jEFNXkBjOZHjVlUeGAh1KHqrPVAMw?e=mIU8IW) |  |
 
