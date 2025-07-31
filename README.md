@@ -29,14 +29,14 @@
 - **Tone**: Maintain an objective and scientific tone throughout the report. Avoid informal language or personal opinions.
   
 ****
-
+<!--
 ### Team Formation Instructions- Complete this exercise by today July 24, 2025.
 - Please form teams of 4 members each.
 - Only ONE member per team needs to fill out the registration form on behalf of the entire team. 
 - [Form link](https://forms.office.com/r/2Kq0TXtkp7)
 
 ****
-
+-->
 <!--
 ### The group of the lab ar
 
