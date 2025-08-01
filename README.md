@@ -31,7 +31,7 @@
 ### Lab details and TA mapping
 | Lab No. | Due date        | Assessment date  | TA mapping   |
 |:---:|:--:|:--|:--------------------------|
-| 1       |  04-08-2025            | 04-08-2025 | [Lab 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ER6hSUawNQ1Kth5nLsN385QB69hl9bFO_KDqOxasWoq4DA?e=s2PKix) |
+| 1       |  04-08-2025            | 05-08-2025 | [Lab 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ER6hSUawNQ1Kth5nLsN385QB69hl9bFO_KDqOxasWoq4DA?e=s2PKix) |
   
 ****
 <!--
