@@ -27,6 +27,11 @@
 - ⁠**Cite Your Sources**: Any information, ideas, or data that are not your own original work or common knowledge must be properly cited.
 - **Avoid Plagiarism**: Always put information into your own words and cite the source. Plagiarism is a serious academic offence.
 - **Tone**: Maintain an objective and scientific tone throughout the report. Avoid informal language or personal opinions.
+
+### Lab details and TA mapping
+| Lab No. | Due date        | Assessment date  | TA mapping   |
+|:---:|:--:|:--|:--------------------------|
+| 1       |  04-08-2025            | 04-08-2025 | [Lab 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ER6hSUawNQ1Kth5nLsN385QB69hl9bFO_KDqOxasWoq4DA?e=s2PKix) |
   
 ****
 <!--
