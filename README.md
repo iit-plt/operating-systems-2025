@@ -15,7 +15,7 @@
 
 ### 24-07-2025 - Lab-1 (Due on 04.08.2025, Timing: 11:59 pm)
 ### Evaluation on 05.08.2025
-### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBDEwVC_9xdZqdh8b3dkRnWw?e=OvqALL) 
+### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBBJIGoMEsiEznq5ffVWdBLg) 
 ### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
 
 ****
