@@ -58,4 +58,4 @@
 | 1       |  25-07-2025            | Classifications and Service| [25-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVDBmxOQ_XdMmfk9S1GZah0BhUQfu9XAO_Z6Au7bwFYIZQ?e=v5Llb0) |  |
 | 2       |  28-07-2025            | Introduction to Process States| [28-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ET3gVtZugItBivtgv0tdNEABfiVj5jSAQe7WOaNyUM7UBA?e=rAdI1D) |  |
 | 3       |  29-07-2025            | Introduction to CPU Scheduling| [29-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETEsMa7nrylJhu_n6jEFNXkBjOZHjVlUeGAh1KHqrPVAMw?e=mIU8IW) |  |
-
+| 4       |  31-07-2025            | CPU Scheduling Algorithm | [31-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EZN4Ss1rD1NLs7gEdK4BQCEBADoirPWdE-mgbT7UH82L0Q?e=uc0Ig8) |  |
