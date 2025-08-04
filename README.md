@@ -36,6 +36,7 @@
 
 ### Only one member per team needs to submit the lab report. 
 ### File Name should strictly follow this format: <GroupName_Dept_Lab-1>, Eg. Group-1_CSE_Lab-1.pdf
+$${\color{red}Red}$$
 
 
 ****
