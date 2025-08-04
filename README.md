@@ -30,15 +30,19 @@
 
 ### Lab details and TA mapping
 
-| Lab No. | Due Date        | Assessment date  | TA mapping   |
+| Lab No. | Due Date        | Assessment date  | TA mapping   | Submission Link|
 |:---:|:--:|:--:|:--------------------------:|
-| 1       |  04-08-2025            | 05-08-2025 | [Lab 1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ER6hSUawNQ1Kth5nLsN385QB69hl9bFO_KDqOxasWoq4DA?e=s2PKix) |
-  
+| 1       |  04-08-2025            | 05-08-2025 | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ER6hSUawNQ1Kth5nLsN385QB69hl9bFO_KDqOxasWoq4DA?e=s2PKix) | [Click here to submit](https://forms.office.com/r/BGwDx2GrNg) |
+##Only ONE member per team needs to submit the lab report. 
+
+
 ****
 <!--
 ### Team Formation Instructions- Complete this exercise by today July 24, 2025.
 - Please form teams of 4 members each.
 - Only ONE member per team needs to fill out the registration form on behalf of the entire team. 
+
+
 - [Form link](https://forms.office.com/r/2Kq0TXtkp7)
 
 ****
