@@ -28,13 +28,14 @@
 - **Avoid Plagiarism**: Always put information into your own words and cite the source. Plagiarism is a serious academic offence.
 - **Tone**: Maintain an objective and scientific tone throughout the report. Avoid informal language or personal opinions.
 
-### Lab details and TA mapping
+### Important Details for Lab-1, Submission Deadline: August 4, 2025, 11:59 pm
 
 | Lab No. | Due Date        | Assessment date  | TA mapping   | Submission Link|
 |:---:|:--:|:--:|:--------------------------:|:-----:|
 | 1       |  04-08-2025            | 05-08-2025 | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ER6hSUawNQ1Kth5nLsN385QB69hl9bFO_KDqOxasWoq4DA?e=s2PKix) | [Click here to submit](https://forms.office.com/r/BGwDx2GrNg) |
 
 ## Only one member per team needs to submit the lab report. 
+## File Name should strictly follow this format <Group No_Dept_Lab-1> Eg. Group-1_CSE_Lab-1.pdf
 
 
 ****
