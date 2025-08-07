@@ -13,8 +13,8 @@
 #### [Xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2024/xv6/book-riscv-rev4.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 ****
 
-### 24-07-2025 - Lab-1 (Due on 04.08.2025, Timing: 11:59 pm)
-### Evaluation on 05.08.2025
+### Lab-2 (Due on 18.08.2025, Timing: 11:59 pm)
+### Evaluation on 19.08.2025
 ### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBBJIGoMEsiEznq5ffVWdBLg) 
 ### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
 ### [Download Assignment-2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EQJRvyN_IaJBkwh6OnI3RDEB1oc_FqNvW8eJjlwiB_6toA?e=mZVjmk)
@@ -29,7 +29,7 @@
 - **Avoid Plagiarism**: Always put information into your own words and cite the source. Plagiarism is a serious academic offence.
 - **Tone**: Maintain an objective and scientific tone throughout the report. Avoid informal language or personal opinions.
 
-## Important Details for Lab-1, Submission Deadline: August 4, 2025, 11:59 pm
+## Important Details
 
 | Lab No. | Due Date        | Assessment date  | Assignment | TA mapping   | Submission Link|
 |:---:|:--:|:--:|:--------------------------:|:-----:|:-----:|
