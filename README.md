@@ -67,3 +67,7 @@
 | 2       |  28-07-2025            | Introduction to Process States| [28-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ET3gVtZugItBivtgv0tdNEABfiVj5jSAQe7WOaNyUM7UBA?e=rAdI1D) |  |
 | 3       |  29-07-2025            | Introduction to CPU Scheduling| [29-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETEsMa7nrylJhu_n6jEFNXkBjOZHjVlUeGAh1KHqrPVAMw?e=mIU8IW) |  |
 | 4       |  31-07-2025            | CPU Scheduling Algorithms | [31-7-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EZN4Ss1rD1NLs7gEdK4BQCEBADoirPWdE-mgbT7UH82L0Q?e=uc0Ig8) |  |
+| 5       |  4-08-2025            | RISC-V and Register Conventions | [4-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfiwEjQlZclJs0I-okff8vABA3EFSOV13nKyaskt3viEfQ?e=mxheej) |  |
+| 6       |  7-08-2025            | Xv6-Introduction | [7-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYYrWGYOB_VIhipLJPH9JuEBEa8-jodoNQTvJl5aNtyXYA?e=OhvuK1) |  |
+| 7       |  8-08-2025            | Getting started with Xv6 Process & Code | [8-08-20205](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbFusAA4MwBGtSzobdvT9sQBLdHi1MGK047XjwJUOYkh1Q?e=Zin4Zv) |  |
+
