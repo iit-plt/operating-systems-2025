@@ -71,3 +71,5 @@
 | 6       |  7-08-2025            | Xv6-Introduction | [7-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYYrWGYOB_VIhipLJPH9JuEBEa8-jodoNQTvJl5aNtyXYA?e=OhvuK1) |  |
 | 7       |  8-08-2025            | Getting started with Xv6 Process & Code | [8-08-20205](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbFusAA4MwBGtSzobdvT9sQBLdHi1MGK047XjwJUOYkh1Q?e=Zin4Zv) |  |
 | 8       |  11-08-2025            | Inter Process Communication | [11-08-20205](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXwY3IYn7UFAoJmOjvMsQakBKqelGV-WsuwzLrlFloDvDw?e=ibbQWB) |  |
+| 9       |  12-08-2025            | Process Synchronization | [12-08-20205](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETFgJbut_Q5Ok22vkRU6tQUBQOMfCuUAxbBn84UIZD1GCw?e=Qwn8sj) |  |
+
