@@ -34,6 +34,8 @@
 
 For information about your assigned room, please refer to [Seating Arrangement](https://iitgoffice.sharepoint.com/:b:/s/Grp_Grp_CS_343/EWoU_tEPeRhNu8K4SO1MrGoBFWzc2mnRVs4X9E4zKwGgrw?e=l2GFZe) PDF.  
 Thank You.
+
+
 ****
 
 ### Lab Report Guidelines
