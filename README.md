@@ -74,7 +74,7 @@ Thank You.
 ### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 01-08-2025 with TA. TA-Group mapping for Lab-1 can be viewed [here]()
 -->
 
-[Click here to check your attendance]()
+[Click here to check your attendance](https://iitgoffice-my.sharepoint.com/:x:/g/personal/i_ashwin_iitg_ac_in/EQ9zSbm0fNlFr0URUQ29s4ABs3xFmxi5dtTb-lSdAYv_HQ?e=hZkHt4)
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
