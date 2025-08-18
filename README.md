@@ -89,4 +89,6 @@ Thank You.
 | 7       |  8-08-2025            | Getting started with Xv6 Process & Code | [8-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbFusAA4MwBGtSzobdvT9sQBLdHi1MGK047XjwJUOYkh1Q?e=Zin4Zv) |  |
 | 8       |  11-08-2025            | Inter Process Communication | [11-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXwY3IYn7UFAoJmOjvMsQakBKqelGV-WsuwzLrlFloDvDw?e=ibbQWB) |  |
 | 9       |  12-08-2025            | Process Synchronization | [12-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETFgJbut_Q5Ok22vkRU6tQUBQOMfCuUAxbBn84UIZD1GCw?e=Qwn8sj) |  |
+| 10      |  14-08-2025            | Classical Synchronization Problems | [14-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVuTQ6ewmIVOmIQfOT71V6sB0ds1aPS1iyWiUL84kVAjnQ?e=eJSnuY) |  |
+| 11      |  18-08-2025            | Introduction to Process Deadlocks | [18-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXs_1zFiLZxCuob4BpJq_TsBcju4hbH9H5hzaaQCnq812w?e=LhLhNn) |  |
 
