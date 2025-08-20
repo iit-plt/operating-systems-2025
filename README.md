@@ -13,12 +13,16 @@
 #### [Xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2024/xv6/book-riscv-rev4.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 ****
 
-### Lab-2 (Due on 18.08.2025, Timing: 11:59 pm)
-### Evaluation on 19.08.2025
-### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBBJIGoMEsiEznq5ffVWdBLg) 
-### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
-### [Download Assignment-2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EQJRvyN_IaJBkwh6OnI3RDEB1oc_FqNvW8eJjlwiB_6toA?e=mZVjmk)
+### Lab-3 (Due on 01.09.2025, Timing: 11:59 pm)
+### Evaluation on 02.09.2025
+
 ### [Download Assignment-3](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUG5fURVwBpHi-fE0bX_S8UBuv68JecG7dhjjj7jPNnO0w?e=D4Xv78)
+
+### Older Assignments
+- #### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBBJIGoMEsiEznq5ffVWdBLg) 
+- #### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
+- #### [Download Assignment-2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EQJRvyN_IaJBkwh6OnI3RDEB1oc_FqNvW8eJjlwiB_6toA?e=mZVjmk)
+
 
 ****
 # Quiz 1 Guidelines
