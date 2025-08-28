@@ -100,5 +100,5 @@ Thank You.
 | 11      |  18-08-2025            | Introduction to Process Deadlocks | [18-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXs_1zFiLZxCuob4BpJq_TsBcju4hbH9H5hzaaQCnq812w?e=LhLhNn) |  |
 | 12      |  22-08-2025            | Deadlock Avoidance, Detection and Recovery | [22-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Eaf3hsx-n05NrvRn2RvCz68BhEc4VbV6bjX8SQEpVA2s1A?e=4EMQLB) |  |
 | 13      |  25-08-2025            | Introduction to Memory Management | [25-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUjJW2NvTT1MjPVpjKQB3lYB4X2vCOF0L7C_7mt9qV9Akg?e=YKflrY) |  |
-
+| 14      |  27-08-2025            | Introduction to Segmentation and Paging | [27-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdpIa3HjtKhEh2NmD2hgTyMBjeyW40azqjl_7hcsHXp0Tg?e=5hBTcT) |  |
 
