@@ -25,6 +25,7 @@
 
 
 ****
+<!--
 # Quiz 1 Guidelines
 
 **Important guidelines for Quiz 1 (CS 343):**
@@ -39,13 +40,13 @@
 
 For information about your assigned room, please refer to [Seating Arrangement](https://iitgoffice.sharepoint.com/:b:/s/Grp_Grp_CS_343/EWoU_tEPeRhNu8K4SO1MrGoBFWzc2mnRVs4X9E4zKwGgrw?e=l2GFZe) PDF.  
 Thank You.
-
+-->
 
 ****
 
 ### Lab Report Guidelines
 - **Keep it concise**: Your report should be brief and to the point, clearly explaining what was done and why it was done.
-- ⁠**Page Limit**: Unless explicitly stated otherwise in the assignment document, your report should be no more than 10 pages in length.
+- ⁠**Page Limit**: Unless explicitly stated otherwise in the assignment document, your report should be around 10 pages in length.
 - **Code and Changes**: For code-heavy assignments, avoid pasting the entire code into the report. Instead, include relevant code snippets and highlight where you've made changes (e.g., by mentioning the function name, specific line numbers, or adding comments within the snippet).
 - ⁠**Cite Your Sources**: Any information, ideas, or data that are not your own original work or common knowledge must be properly cited.
 - **Avoid Plagiarism**: Always put information into your own words and cite the source. Plagiarism is a serious academic offence.
