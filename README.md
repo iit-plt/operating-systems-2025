@@ -102,4 +102,4 @@ Thank You.
 | 13      |  25-08-2025            | Introduction to Memory Management | [25-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUjJW2NvTT1MjPVpjKQB3lYB4X2vCOF0L7C_7mt9qV9Akg?e=YKflrY) |  |
 | 14      |  26-08-2025            | Tutorial-Shared-Memory | [26-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EaXuoctg5bpPi0TMA7X69ywB-WZUKJoPWxPlRE5_VFRlug?e=We6U47) |  |
 | 15      |  27-08-2025            | Introduction to Segmentation and Paging | [27-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdpIa3HjtKhEh2NmD2hgTyMBjeyW40azqjl_7hcsHXp0Tg?e=5hBTcT) |  |
-| 16      |  28-08-2025            | Tutorial-Spin Lock | [26-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfqVt8---RVKq_j1cVFO_kcBE-0HN12cTXuDbNDknRr-fQ?e=kCoXJs) |  |
+| 16      |  28-08-2025            | Tutorial-Spin Lock | [28-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfqVt8---RVKq_j1cVFO_kcBE-0HN12cTXuDbNDknRr-fQ?e=kCoXJs) |  |
