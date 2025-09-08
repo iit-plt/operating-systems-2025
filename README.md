@@ -12,11 +12,12 @@
 #### [OSTEP - Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)- Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 #### [Xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2024/xv6/book-riscv-rev4.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
 ****
-
+<!--
 ### Lab-3 (Due on 01.09.2025, Timing: 11:59 pm)
 ### Evaluation on 02.09.2025
 
 ### [Download Assignment-3](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUG5fURVwBpHi-fE0bX_S8UBuv68JecG7dhjjj7jPNnO0w?e=D4Xv78)
+-->
 
 ### Older Assignments
 - #### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBBJIGoMEsiEznq5ffVWdBLg) 
@@ -37,7 +38,7 @@
 5. Please follow the instructions of the Teaching Assistants (TAs) regarding seating arrangements.  
 
     
-For information about your assigned room, please refer to [Seating Arrangement]() PDF.  
+For information about your assigned room, please refer to [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdFKgCyOWglLs7GKZ_Ra3rMB73-tkor0WtCWD4BYM8HOrQ?e=1f9FTL) PDF.  
 Thank You.
 
 ****
