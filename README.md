@@ -25,22 +25,20 @@
 
 
 ****
-<!--
-# Quiz 1 Guidelines
 
-**Important guidelines for Quiz 1 (CS 343):**
+# Lab Quiz 1 Guidelines
 
-1. The quiz will begin sharply at **6:15 PM**. Kindly report to the venue by **6:00 PM**. Please note that if you arrive late, your allotted time will be reduced. **Entry after 6:30 PM is not allowed**. You are not allowed to leave the hall before **7:00 PM**. Make sure to report to the same room you have been assigned. **No bio-breaks are allowed**.
+**Important guidelines for Lab Quiz 1 (CS 344): September 9, 2025, 6:15 pm to 7:00 pm**
+
+1. The quiz will begin sharply at **6:15 PM**. Kindly report to the venue by **6:00 PM**. Please note that if you arrive late, your allotted time will be reduced. **Entry after 6:30 PM is not allowed**. You are not allowed to leave the hall before **6:50 PM**. Make sure to report to the same room you have been assigned. **No bio-breaks are allowed**.
 2. Ensure you bring a **hard copy** of your ID card. If you do not have your institute ID, any other valid government-issued ID will suffice. **Soft copies of ID cards are not allowed**.
 3. Calculators or any electronic gadgets, including digital/smart watches, are **not allowed** for the quiz.
 4. If no valid ID is shown, there will be a penalty of **-2 marks**. Additionally, if indexing is not done on the front page, there will also be a penalty of **-2 marks**.
 5. Please follow the instructions of the Teaching Assistants (TAs) regarding seating arrangements.  
 
-    **NOTE: Quiz-1 will be held from 6:15 PM to 7:30 PM on 13.08.2025, Wednesday**
-
-For information about your assigned room, please refer to [Seating Arrangement](https://iitgoffice.sharepoint.com/:b:/s/Grp_Grp_CS_343/EWoU_tEPeRhNu8K4SO1MrGoBFWzc2mnRVs4X9E4zKwGgrw?e=l2GFZe) PDF.  
+    
+For information about your assigned room, please refer to [Seating Arrangement]() PDF.  
 Thank You.
--->
 
 ****
 
