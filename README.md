@@ -34,8 +34,7 @@
 1. The quiz will begin sharply at **6:15 PM**. Kindly report to the venue by **6:00 PM**. Please note that if you arrive late, your allotted time will be reduced. **Entry after 6:30 PM is not allowed**. You are not allowed to leave the hall before **6:50 PM**. Make sure to report to the same room you have been assigned. **No bio-breaks are allowed**.
 2. Ensure you bring a **hard copy** of your ID card. If you do not have your institute ID, any other valid government-issued ID will suffice. **Soft copies of ID cards are not allowed**.
 3. Calculators or any electronic gadgets, including digital/smart watches, are **not allowed** for the quiz.
-4. If no valid ID is shown, there will be a penalty of **-2 marks**. Additionally, if indexing is not done on the front page, there will also be a penalty of **-2 marks**.
-5. Please follow the instructions of the Teaching Assistants (TAs) regarding seating arrangements.  
+4. Please follow the instructions of the Teaching Assistants (TAs) regarding seating arrangements.  
 
     
 For information about your assigned room, please refer to [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdFKgCyOWglLs7GKZ_Ra3rMB73-tkor0WtCWD4BYM8HOrQ?e=1f9FTL) PDF.  
