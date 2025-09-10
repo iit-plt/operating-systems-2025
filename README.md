@@ -18,7 +18,7 @@
 
 ### [Download Assignment-3](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUG5fURVwBpHi-fE0bX_S8UBuv68JecG7dhjjj7jPNnO0w?e=D4Xv78)
 -->
-# Lab Quiz 1 Guidelines
+# Notice Board
 
 **Important guidelines for Lab Quiz 1 (CS 344): September 9, 2025, 6:15 pm to 7:00 pm**
 
@@ -32,7 +32,7 @@ For information about your assigned room, please refer to [Seating Arrangement](
 Thank You.
 
 ****
-
+# CS344 - Operating Systems Lab
 ### Lab Report Guidelines
 - **Keep it concise**: Your report should be brief and to the point, clearly explaining what was done and why it was done.
 - ⁠**Page Limit**: Unless explicitly stated otherwise in the assignment document, your report should be around 10 pages in length.
@@ -54,8 +54,8 @@ Thank You.
 | 4       |  06-10-2025            | 07-10-2025 | [Assignment-4](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ET9Cflzsi2tGsKmbW5r4S10BKivMT9FmNPt01WHyGa8YhA?e=W5Z060) | [TA-Student mapping]() | [Click here to submit]() |
 
 
-### File Name should strictly follow this format: <GroupName_Dept_Lab-1>, Eg. Group-1_CSE_Lab-1.pdf
-### Only one member per team needs to submit the lab report. 
+- File Name should strictly follow this format: <GroupName_Dept_Lab-1>; Eg. Group-1_CSE_Lab-1.pdf
+- Only one member per team needs to submit the lab report. 
 
 
 ****
@@ -74,6 +74,7 @@ Thank You.
 
 ### Please email TA if you have any doubt for Lab-1. You can set up a meeting on 01-08-2025 with TA. TA-Group mapping for Lab-1 can be viewed [here]()
 -->
+# CS343 - Operating Systems
 
 [Click here to check your attendance](https://iitgoffice-my.sharepoint.com/:x:/g/personal/i_ashwin_iitg_ac_in/EQ9zSbm0fNlFr0URUQ29s4ABs3xFmxi5dtTb-lSdAYv_HQ?e=hZkHt4)
 
