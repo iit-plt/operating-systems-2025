@@ -11,8 +11,8 @@
 - ####  Operating Systems: Internals and Design Principles, William Stallings, 6/e. Pearson, 2008.
 - #### [OSTEP - Operating Systems: Three Easy Pieces (OSTEP)](https://pages.cs.wisc.edu/~remzi/OSTEP/)- Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau
 - #### [Xv6 – A simple, Unix-like teaching Operating System](https://pdos.csail.mit.edu/6.828/2024/xv6/book-riscv-rev4.pdf)- Russ Cox, Frans Kaashoek, Robert Morris
-****
 
+****
 # Notice Board
 
 **Important guidelines for Lab Quiz 1 (CS 344): September 9, 2025, 6:15 pm to 7:00 pm**
