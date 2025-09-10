@@ -18,15 +18,6 @@
 
 ### [Download Assignment-3](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUG5fURVwBpHi-fE0bX_S8UBuv68JecG7dhjjj7jPNnO0w?e=D4Xv78)
 -->
-
-### Older Assignments
-- #### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBBJIGoMEsiEznq5ffVWdBLg) 
-- #### [Download Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD)
-- #### [Download Assignment-2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EQJRvyN_IaJBkwh6OnI3RDEB1oc_FqNvW8eJjlwiB_6toA?e=mZVjmk)
-
-
-****
-
 # Lab Quiz 1 Guidelines
 
 **Important guidelines for Lab Quiz 1 (CS 344): September 9, 2025, 6:15 pm to 7:00 pm**
@@ -50,13 +41,17 @@ Thank You.
 - **Avoid Plagiarism**: Always put information into your own words and cite the source. Plagiarism is a serious academic offence.
 - **Tone**: Maintain an objective and scientific tone throughout the report. Avoid informal language or personal opinions.
 
+### Installation Guide
+- #### [Installation Guide Xv6](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWn9zdi28ElMngANn8sznMcBBJIGoMEsiEznq5ffVWdBLg) 
+
 ## Important Details
 
 | Lab No. | Due Date        | Assessment date  | Assignment | TA mapping   | Submission Link|
 |:---:|:--:|:--:|:--------------------------:|:-----:|:-----:|
 | 1       |  04-08-2025            | 05-08-2025 | [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfQAcuwsprtHohvZ2oWKhwUButAYXD16ABDR06yXWVkFaA?e=lLsatD) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ER6hSUawNQ1Kth5nLsN385QB69hl9bFO_KDqOxasWoq4DA?e=s2PKix) | [Click here to submit](https://forms.office.com/r/BGwDx2GrNg) |
 | 2       |  18-08-2025            | 19-08-2025 | [Assignment-2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EQJRvyN_IaJBkwh6OnI3RDEB1oc_FqNvW8eJjlwiB_6toA?e=mZVjmk) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EcmVwYLIxfZKmd8vSnkLkVEBKqJhACZ6397-YHGwq_JRvg?e=jBJGKW) | [Click here to submit](https://forms.office.com/r/t0hhiPiYHB) |
-| 3       |  01-09-2025            | 2-09-2025 | [Assignment-3](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUG5fURVwBpHi-fE0bX_S8UBuv68JecG7dhjjj7jPNnO0w?e=D4Xv78) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWZghRpG-n1FiEDalLHrFKgBOHlLie2D_mLb-LnqyUZTyA?e=h8fjtZ) | [Click here to submit](https://forms.office.com/r/Nq8H9kHLLc) |
+| 3       |  01-09-2025            | 02-09-2025 | [Assignment-3](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUG5fURVwBpHi-fE0bX_S8UBuv68JecG7dhjjj7jPNnO0w?e=D4Xv78) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWZghRpG-n1FiEDalLHrFKgBOHlLie2D_mLb-LnqyUZTyA?e=h8fjtZ) | [Click here to submit](https://forms.office.com/r/Nq8H9kHLLc) |
+| 4       |  06-10-2025            | 07-10-2025 | [Assignment-4](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ET9Cflzsi2tGsKmbW5r4S10BKivMT9FmNPt01WHyGa8YhA?e=W5Z060) | [TA-Student mapping]() | [Click here to submit]() |
 
 
 ### File Name should strictly follow this format: <GroupName_Dept_Lab-1>, Eg. Group-1_CSE_Lab-1.pdf
