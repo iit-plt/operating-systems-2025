@@ -95,5 +95,7 @@ Thank You.
 | T - 2      |  28-08-2025         | Tutorial-Spin Lock | [28-08-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfqVt8---RVKq_j1cVFO_kcBE-0HN12cTXuDbNDknRr-fQ?e=kCoXJs) |  |
 | 15     |  01-09-2025            | Page Table Implementation | [01-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdVvByzpH9ZGj7_4POYWRi8BDXqg8xAsMBIPlchOxeYsnQ?e=HECawf) |  |
 | 16     |  02-09-2025            | Virtual Memory Techniques | [02-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbZt3JZAe8ZDunj5L-8HuWsBCFibRHI2_SHKB5j0CyPVbA?e=M174oF) |  |
+| 17     |  08-09-2025            | Frame Allocation Techniques | [08-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EU9HWGfZ2YVAr-IG-Tw6h8gBaXSqUIx0eV-Yk1Dz0f2Beg?e=PXQ3ub) |  |
+
 
 T - Tutorial lecture
