@@ -97,6 +97,6 @@ Thank You.
 | 16     |  02-09-2025            | Virtual Memory Techniques | [02-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbZt3JZAe8ZDunj5L-8HuWsBCFibRHI2_SHKB5j0CyPVbA?e=M174oF) |  |
 | 17     |  08-09-2025            | Frame Allocation Techniques | [08-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EU9HWGfZ2YVAr-IG-Tw6h8gBaXSqUIx0eV-Yk1Dz0f2Beg?e=PXQ3ub) |  |
 | 18     |  22-09-2025            | Threads & Parallelism| [Part-A-22-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EeCfBbJ1WIdNgqjaka4YD3kBjTmKwh-PBLTHgPbRAcesTQ?e=MTYdGL) |  |
-| 19     |  22-09-2025            | Revisiting Spin Lock| [Part-B-22-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfGzWxga_dFFq5q-YajnsJgBHW87CY4rpe0ck2yHzs51tQ?e=YmpTem) |  |
+| 19     |  22-09-2025            | Revisiting Spin Lock| [Part-B-22-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfGzWxga_dFFq5q-YajnsJgBH7XrIGGtI98PeMGNJ5iH1A?e=dxnLtG) |  |
 
 T - Tutorial lecture
