@@ -21,10 +21,11 @@
 2. Ensure you bring a **hard copy** of your ID card. If you do not have your institute ID, any other valid government-issued ID will suffice. **Soft copies of ID cards are not allowed**.
 3. Calculators or any electronic gadgets, including digital/smart watches, are **not allowed** for the quiz.
 4. Please follow the instructions of the Teaching Assistants (TAs) regarding seating arrangements.  
--->
-    
+
 For information about your assigned room, please refer to [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EdFKgCyOWglLs7GKZ_Ra3rMB73-tkor0WtCWD4BYM8HOrQ?e=1f9FTL) PDF.  
 Thank You.
+-->
+    
 
 ****
 # CS344 - Operating Systems Lab
