@@ -18,7 +18,7 @@
 
 | Assignment | Due Date        | Submission Link|
 |:---:|:--:|:-----:|
-| [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVpB6VTJrHVOq-GpO4RbK3wBTTQMMkX50joornjFD7J0LQ?e=DmwgTJ)       |  31-10-2025  |   |
+| [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVpB6VTJrHVOq-GpO4RbK3wBTTQMMkX50joornjFD7J0LQ?e=DmwgTJ)       |  31-10-2025  | [Click Here]()  |
 
 
 <!--
