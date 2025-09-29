@@ -14,6 +14,13 @@
 
 ****
 # Notice Board
+## Paper Reading Assignment, due on October 31, 2025
+
+| Assignment | Due Date        | Submission Link|
+|:---:|:--:|:-----:|
+| [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVpB6VTJrHVOq-GpO4RbK3wBTTQMMkX50joornjFD7J0LQ?e=DmwgTJ)       |  31-10-2025  |   |
+
+
 <!--
 **Important guidelines for Lab Quiz 1 (CS 344): September 9, 2025, 6:15 pm to 7:00 pm**
 
