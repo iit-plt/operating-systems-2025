@@ -79,7 +79,7 @@ Thank You.
 -->
 # CS343 - Operating Systems
 
-[Click here to check your attendance](https://iitgoffice-my.sharepoint.com/:x:/g/personal/i_ashwin_iitg_ac_in/EQ9zSbm0fNlFr0URUQ29s4ABs3xFmxi5dtTb-lSdAYv_HQ?e=hZkHt4)
+[Click here to check your attendance](https://iitgoffice-my.sharepoint.com/:x:/g/personal/phrangboklang_iitg_ac_in/EW_VO7Db18pEjMF1aOlcTwkBFMXztmFWJKJW08qZ779HsQ?e=cJDW22)
 
 | Lec. No. | Date of Lecture        | Topics  | Slides   |References |
 |:---:|:--:|:--|:--------------------------|:--:|
