@@ -108,6 +108,9 @@ Thank You.
 | 19     |  22-09-2025            | Revisiting Spin Lock| [Part-B-22-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfGzWxga_dFFq5q-YajnsJgBH7XrIGGtI98PeMGNJ5iH1A?e=dxnLtG) |  |
 | 20     |  25-09-2025            | Xv6 Spin Lock| [25-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EQ2pLLVsL8FIkj6pZv4MVh0BME94JAUjZs4U_iFl9RjmTQ?e=dfLjSg) |  |
 | 21     |  26-09-2025            | Introduction to I/O| [26-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERSQYAiRgVpNh6Mio_XlxxoB3aJiaOIrREoFj9ukNJokCw?e=f5xrl3) |  |
+| 22     |  29-09-2025            | I/O Fundamentals| [29-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfE1D_KNFLNAj7AYdP8TpMoBCJ1CZ7zB_TDapEHUqLgCCg?e=X0qZLS) |  |
+| 23     |  6-10-2025            | Trap-Context-Process-Creation in xv6| [6-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESYip-vmImhNgf4EVMwTOMYBtV8eBmjT20nzG0fK7I6rbA?e=2fpu4a) |  |
+| 24     |  7-10-2025            | Interrupts and DMA| [7-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWp2moqe9wZKnwrxKST-Hd8BH1NqK_XhoPNeiPijXU7omg?e=HJTJhe) |  |
 
 
 T - Tutorial lecture
