@@ -16,6 +16,10 @@
 # Notice Board
 ## Paper Reading Assignment, due on October 31, 2025
 
+Preference form: https://forms.office.com/r/YKfmqXWdLR
+- The assignment contains a list of 21 papers. Each paper is restricted to 3 teams. To facilitate this, please fill out the preference form above by 10th October 2025, 11:59 AM.
+- You are required to select your top 7 preferences. Assignments will be made on a first-come, first-served basis. In case a paper cannot be allotted to your group, you will be notified and asked to choose another paper.
+
 | Assignment | Due Date        | Submission Link|
 |:---:|:--:|:-----:|
 | [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVpB6VTJrHVOq-GpO4RbK3wBTTQMMkX50joornjFD7J0LQ?e=DmwgTJ)       |  31-10-2025  | [Click Here]()  |
