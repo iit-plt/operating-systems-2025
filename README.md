@@ -16,7 +16,7 @@
 # Notice Board
 ## Paper Reading Assignment, due on October 31, 2025
 
-Preference form: https://forms.office.com/r/YKfmqXWdLR
+Preference form: [Click Here](https://forms.office.com/r/YKfmqXWdLR)
 - The assignment contains a list of 21 papers. Each paper is restricted to 3 teams. To facilitate this, please fill out the preference form above by 10th October 2025, 11:59 AM.
 - You are required to select your top 7 preferences. Assignments will be made on a first-come, first-served basis. In case a paper cannot be allotted to your group, you will be notified and asked to choose another paper.
 
