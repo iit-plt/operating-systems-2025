@@ -16,7 +16,7 @@
 # Notice Board
 ## Paper Reading Assignment, due on October 31, 2025
 
-Allotment List - [Click Here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EaOk-5IXeUZDlglKX6Nn0BUByQGDddjH5yK3mfqHz-9n_g?e=R4MFTo)
+Allotment List - [Click Here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYicTnZ2AFZEpS1kKhgnNrwBesFJa4q3jBcTDuxNQ848Lw?e=ByifT0)
 
 | Assignment | Due Date        | Submission Link|
 |:---:|:--:|:-----:|
