@@ -16,9 +16,7 @@
 # Notice Board
 ## Paper Reading Assignment, due on October 31, 2025
 
-Preference form: [Click Here](https://forms.office.com/r/YKfmqXWdLR)
-- The assignment contains a list of 21 papers. Each paper is restricted to 3 teams. To facilitate this, please fill out the preference form above by 10th October 2025, 11:59 AM.
-- You are required to select your top 7 preferences. Assignments will be made on a first-come, first-served basis. In case a paper cannot be allotted to your group, you will be notified and asked to choose another paper.
+Allotment List - [Click Here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EaOk-5IXeUZDlglKX6Nn0BUByQGDddjH5yK3mfqHz-9n_g?e=R4MFTo)
 
 | Assignment | Due Date        | Submission Link|
 |:---:|:--:|:-----:|
@@ -59,7 +57,7 @@ Thank You.
 | 2       |  18-08-2025            | 19-08-2025 | [Assignment-2](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EQJRvyN_IaJBkwh6OnI3RDEB1oc_FqNvW8eJjlwiB_6toA?e=mZVjmk) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EcmVwYLIxfZKmd8vSnkLkVEBKqJhACZ6397-YHGwq_JRvg?e=jBJGKW) | [Click here to submit](https://forms.office.com/r/t0hhiPiYHB) |
 | 3       |  01-09-2025            | 02-09-2025 | [Assignment-3](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EUG5fURVwBpHi-fE0bX_S8UBuv68JecG7dhjjj7jPNnO0w?e=D4Xv78) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWZghRpG-n1FiEDalLHrFKgBOHlLie2D_mLb-LnqyUZTyA?e=h8fjtZ) | [Click here to submit](https://forms.office.com/r/Nq8H9kHLLc) |
 | 4       |  06-10-2025            | 07-10-2025 | [Assignment-4](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ET9Cflzsi2tGsKmbW5r4S10BKivMT9FmNPt01WHyGa8YhA?e=W5Z060) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EViivVq6CkZIoLchiLlri0sBNA_vLtxki2c-7KDtF5wxuA?e=upz2kJ) | [Click here to submit](https://forms.office.com/r/EYLFaK0ywc) |
-| 5       |  13-10-2025            | 14-10-2025 | [Assignment-5](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EaKpsWuquRZFgGNCpdo3vvMBdoSStl3eKaWngLZvAwEe5w?e=q7VOuJ) | [TA-Student mapping]() | [Click here to submit](https://forms.office.com/r/bYy1e4jNkB) |
+| 5       |  13-10-2025            | 14-10-2025 | [Assignment-5](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EaKpsWuquRZFgGNCpdo3vvMBdoSStl3eKaWngLZvAwEe5w?e=q7VOuJ) | [TA-Student mapping](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EZuW-ZL4qxpNmuetZFTrukgByFfeYkDsrAB5ye03S6aAZw?e=W4tb56) | [Click here to submit](https://forms.office.com/r/bYy1e4jNkB) |
 
 - File Name should strictly follow this format: <GroupName_Dept_Lab-1>; Eg. Group-1_CSE_Lab-1.pdf
 - Only one member per team needs to submit the lab report. 
