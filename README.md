@@ -112,7 +112,9 @@ Thank You.
 | 21     |  26-09-2025            | Introduction to I/O| [26-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERSQYAiRgVpNh6Mio_XlxxoB3aJiaOIrREoFj9ukNJokCw?e=f5xrl3) |  |
 | 22     |  29-09-2025            | I/O Fundamentals| [29-09-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfE1D_KNFLNAj7AYdP8TpMoBCJ1CZ7zB_TDapEHUqLgCCg?e=X0qZLS) |  |
 | 23     |  6-10-2025            | Trap-Context-Process-Creation in xv6| [6-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESYip-vmImhNgf4EVMwTOMYBtV8eBmjT20nzG0fK7I6rbA?e=2fpu4a) |  |
-| 24     |  7-10-2025            | Interrupts and DMA| [7-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWp2moqe9wZKnwrxKST-Hd8BH1NqK_XhoPNeiPijXU7omg?e=HJTJhe) |  |
-| 24     |  7-10-2025            | OSTEP-IO Devices| [7-10-2025](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf) |  |
+| 24-a     |  7-10-2025            | Interrupts and DMA| [7-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EWp2moqe9wZKnwrxKST-Hd8BH1NqK_XhoPNeiPijXU7omg?e=HJTJhe) |  |
+| 24-b     |  7-10-2025            | OSTEP-IO Devices| [7-10-2025](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf) |  |
+| 25     |  9-10-2025            | File-System-I| [9-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Efu60SW0LtJLmYKLAmZSx8YBGeUaGN-oQICf6eKLUUOJ_w?e=LkK1qS) |  |
+| 26     |  10-10-2025            | File-System-II| [10-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESQNYTcB5SxDg9tF97H5LxUBH9JAEBcjjT0GKo_yeOjLmw?e=ZrpQ68) |  |
 
 T - Tutorial lecture
