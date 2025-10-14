@@ -116,5 +116,8 @@ Thank You.
 | 24-b     |  7-10-2025            | OSTEP-IO Devices| [7-10-2025](https://pages.cs.wisc.edu/~remzi/OSTEP/file-devices.pdf) |  |
 | 25     |  9-10-2025            | File-System-I| [9-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Efu60SW0LtJLmYKLAmZSx8YBGeUaGN-oQICf6eKLUUOJ_w?e=LkK1qS) |  |
 | 26     |  10-10-2025            | File-System-II| [10-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESQNYTcB5SxDg9tF97H5LxUBH9JAEBcjjT0GKo_yeOjLmw?e=ZrpQ68) |  |
+| 27     |  13-10-2025            | File-System-Tutorial| [13-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ES1IrgiEy6tKuiRzIwK3t2QB24QhXi0yu8jIm9NYb6Pu6w?e=xnfe0c) |  [Solution]()|
+| 28     |  14-10-2025            | Secondary Storage Management| [14-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERlYfZJZt0tPuvScgv89Cq8BaYG0zI7z31CVJSTcdkTJkw?e=Zh8AFm) |  |
+
 
 T - Tutorial lecture
