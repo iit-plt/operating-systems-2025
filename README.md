@@ -118,6 +118,7 @@ Thank You.
 | 26     |  10-10-2025            | File-System-II| [10-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESQNYTcB5SxDg9tF97H5LxUBH9JAEBcjjT0GKo_yeOjLmw?e=ZrpQ68) |  |
 | 27     |  13-10-2025            | File-System-Tutorial| [13-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ES1IrgiEy6tKuiRzIwK3t2QB24QhXi0yu8jIm9NYb6Pu6w?e=xnfe0c) |  [Solution]()|
 | 28     |  14-10-2025            | Secondary Storage Management| [14-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERlYfZJZt0tPuvScgv89Cq8BaYG0zI7z31CVJSTcdkTJkw?e=Zh8AFm) |  |
-
+| 29     |  17-10-2025            | Very Simple File System| [17-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESTa1dSdYdxGoJZcskrjMBsBZI0rbpBCzCyd-_sOjmt5_w?e=R7DR1e) | [Chapter-40-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf) |
+| 30     |  21-10-2025            | Fast File System| [21-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETTIffRPc_tCmLbFW-RXcAABaL5bUWL8C_bVfLGduwh62w?e=MS5MUg) | [Chapter-41-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf) |
 
 T - Tutorial lecture
