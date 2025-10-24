@@ -14,7 +14,7 @@
 
 ****
 # Notice Board
-## CS343 Quiz 2
+## CS343 Quiz 2: October 29, 2025, 11:05 am onwards
 - #### The OS theory quiz 2 is scheduled on October 29, 2025 
 - #### Timing is 11:05 am onwards
 - #### [Seating Arrangement]()
