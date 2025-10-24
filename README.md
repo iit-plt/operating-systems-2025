@@ -125,5 +125,7 @@ Thank You.
 | 28     |  14-10-2025            | Secondary Storage Management| [14-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERlYfZJZt0tPuvScgv89Cq8BaYG0zI7z31CVJSTcdkTJkw?e=Zh8AFm) |  |
 | 29     |  17-10-2025            | Very Simple File System| [17-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESTa1dSdYdxGoJZcskrjMBsBZI0rbpBCzCyd-_sOjmt5_w?e=R7DR1e) | [Chapter-40-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-implementation.pdf) |
 | 30     |  21-10-2025            | Fast File System| [21-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ETTIffRPc_tCmLbFW-RXcAABaL5bUWL8C_bVfLGduwh62w?e=MS5MUg) | [Chapter-41-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ffs.pdf) |
+| 31     |  23-10-2025            | RAIDs| [23-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EZpbValQl7tNmzb7eb2Mza4BxN6rhl0krXgwTfnvwLJVtg?e=TyAG3N) | [Chapter-38-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-raid.pdf) |
+| 32     |  24-10-2025            | SSD| [24-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EZmeb-pDMqtNs9CruvLUo18BU0cSninswFLXwn-vLGO7hg?e=vpfsAC) | [Chapter-44-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf) |
 
 T - Tutorial lecture
