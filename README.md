@@ -15,7 +15,7 @@
 ****
 # Notice Board
 ## CS343 Quiz 2: October 29, 2025, 11:05 am onwards
-## Quiz-2 syllabus - Lectures T-1 (Tutorial Shared Memory),  18-21, and 23-31
+- #### Quiz-2 syllabus - Lectures T-1 (Tutorial Shared Memory),  18-21, and 23-31
 - #### The OS theory quiz 2 is scheduled on October 29, 2025 
 - #### Timing is 11:05 am onwards
 - #### [Seating Arrangement]()
