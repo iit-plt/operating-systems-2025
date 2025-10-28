@@ -18,7 +18,7 @@
 - #### Quiz-2 syllabus - Lectures T-1 (Tutorial Shared Memory),  18-21, and 23-31
 - #### The OS theory quiz 2 is scheduled on October 29, 2025 
 - #### Timing is 11:05 am onwards
-- #### [Seating Arrangement]()
+- #### [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVqg6qomnvZErJXTltQGUh0BOg1_cSv9yzrLAqlpuTBEIQ?e=bRTkdI)
 
 ## Paper Reading Assignment, due on October 31, 2025
 
