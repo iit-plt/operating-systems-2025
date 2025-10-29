@@ -14,10 +14,7 @@
 
 ****
 # Notice Board
-## CS343 Quiz 2: October 29, 2025, 11:05 am - 12:15 pm
-- #### Quiz-2 syllabus - Lectures T-1 (Tutorial Shared Memory),  18-21, and 23-31
-- #### The OS theory quiz 2 is scheduled on October 29, 2025 
-- #### [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVqg6qomnvZErJXTltQGUh0BOg1_cSv9yzrLAqlpuTBEIQ?e=bRTkdI)
+## CS343 Quiz 2 [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EV77sVaPRU9CuiUf1KkGYF0BZpCWf7ODQOvOSeoSsXTgAQ?e=QQTTdM)
 
 ## Paper Reading Assignment, due on October 31, 2025
 
