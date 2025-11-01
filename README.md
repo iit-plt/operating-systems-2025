@@ -16,13 +16,13 @@
 # Notice Board
 ## CS343 Quiz 2 [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EV77sVaPRU9CuiUf1KkGYF0BZpCWf7ODQOvOSeoSsXTgAQ?e=QQTTdM)
 
-## Paper Reading Assignment, due on October 31, 2025
+## Paper Reading Assignment, due on November 2,2025, 11:59 pm
 
 Allotment List - [Click Here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYicTnZ2AFZEpS1kKhgnNrwBesFJa4q3jBcTDuxNQ848Lw?e=ByifT0)
 
 | Assignment | Due Date        | Submission Link|
 |:---:|:--:|:-----:|
-| [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVpB6VTJrHVOq-GpO4RbK3wBTTQMMkX50joornjFD7J0LQ?e=DmwgTJ)       |  31-10-2025  | [Click Here]()  |
+| [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVpB6VTJrHVOq-GpO4RbK3wBTTQMMkX50joornjFD7J0LQ?e=DmwgTJ)       |  2-11-2025  | [Click Here](https://forms.office.com/r/CRDuUTkgLC)  |
 
 
 <!--
