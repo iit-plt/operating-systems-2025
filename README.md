@@ -15,6 +15,7 @@
 ****
 # Notice Board
 ## CS344 Lab Quiz 2 is scheduled on November 4, 2025, Timing 10:30 am onwards
+## [Seating Arrangement]-(https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfiSQvm9PwVNqTF4is7xw48BoHwnn7jqJx6G3wFxK1QOVw?e=w3ZJxm)
 
 ## CS343 Quiz 2 [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EV77sVaPRU9CuiUf1KkGYF0BZpCWf7ODQOvOSeoSsXTgAQ?e=QQTTdM)
 
