@@ -16,7 +16,7 @@
 # Notice Board
 ## CS344 Lab Quiz 2 is scheduled on November 4, 2025, Timing 10:30 am onwards
 ## [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfiSQvm9PwVNqTF4is7xw48BoHwnn7jqJx6G3wFxK1QOVw?e=w3ZJxm)
-## Solution for Lab Quiz-2, Set-A[https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESoSlKKX2TpCuHT_gYKiuMkB3EAbA40pjuA_U9KNdvFmtA?e=CWCuul], Set-B[https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXZtlG_TUmZLlLXgCF40_JYBj2ZKnRFBlvU5117HbRGQ8g?e=Dvsmpu] and Set-C[https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec_pflRPw3pGjcvE7djKZYkBn3U08tNJe-I7sagegmAsDw?e=n6hDdn] 
+## Solution for Lab Quiz-2, [Set-A](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ESoSlKKX2TpCuHT_gYKiuMkB3EAbA40pjuA_U9KNdvFmtA?e=CWCuul), [Set-B](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EXZtlG_TUmZLlLXgCF40_JYBj2ZKnRFBlvU5117HbRGQ8g?e=Dvsmpu) and [Set-C](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ec_pflRPw3pGjcvE7djKZYkBn3U08tNJe-I7sagegmAsDw?e=n6hDdn)
 
 <!--
 #
