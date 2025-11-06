@@ -131,6 +131,10 @@ Thank You.
 | 31     |  23-10-2025            | RAIDs| [23-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EZpbValQl7tNmzb7eb2Mza4BxN6rhl0krXgwTfnvwLJVtg?e=TyAG3N) | [Chapter-38-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-raid.pdf) |
 | 32     |  24-10-2025            | SSD| [24-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EZmeb-pDMqtNs9CruvLUo18BU0cSninswFLXwn-vLGO7hg?e=vpfsAC) | [Chapter-44-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-ssd.pdf) |
 | 33     |  27-10-2025            | Data Integrity and Protection| [27-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EbFKgc9OVHlFnl3pZo3RwmEBtUOnLx8V3uDUbT4biRX6mQ?e=hSdCGb) | [Chapter-45-OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/file-integrity.pdf) |
-
+| 34     |  30-10-2025            | Introduction to OS Security| [30-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/ERS3FS4Qv_xKuiKdV3CHsIkBQMW3NC8tPQsE9ehYlJtN9Q?e=gx9hiT) |  |
+| 35     |  31-10-2025            | OS Security-II| [31-10-2025](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/Ef1A652zmR5GkTtY_Cm38qkBJGxnnqdqPdkQeMsYSreEjA?e=QPeP9Z) |  |
+| 36     |  3-11-2025            | VM-Part-I| [3-11-2025]() |  |
+| 37     |  4-11-2025            | VM-Part-II| [4-11-2025]() |  |
+| 38     |  6-11-2025            | VM-Part-III| [3-11-2025]() |  |
 
 T - Tutorial lecture
