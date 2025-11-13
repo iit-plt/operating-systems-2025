@@ -21,7 +21,7 @@
 <!--
 #
 ## CS343 Quiz 2 [Solution](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EV77sVaPRU9CuiUf1KkGYF0BZpCWf7ODQOvOSeoSsXTgAQ?e=QQTTdM)
-
+-->
 ## Paper Reading Assignment, due on November 2,2025, 11:59 pm
 
 Allotment List - [Click Here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EYicTnZ2AFZEpS1kKhgnNrwBesFJa4q3jBcTDuxNQ848Lw?e=ByifT0)
@@ -29,7 +29,7 @@ Allotment List - [Click Here](https://iitgoffice-my.sharepoint.com/:b:/g/persona
 | Assignment | Due Date        | Submission Link|
 |:---:|:--:|:-----:|
 | [Assignment-1](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EVpB6VTJrHVOq-GpO4RbK3wBTTQMMkX50joornjFD7J0LQ?e=DmwgTJ)       |  2-11-2025  | [Click Here](https://forms.office.com/r/CRDuUTkgLC)  |
--->
+
 
 <!--
 **Important guidelines for Lab Quiz 1 (CS 344): September 9, 2025, 6:15 pm to 7:00 pm**
