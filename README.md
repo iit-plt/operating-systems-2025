@@ -15,7 +15,7 @@
 ****
 # Notice Board
 
-## CS343 End sem examination Solution [Click here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQD90uVuK1v6SJP4nD54P_QIAS2uKrRSuA0WQPZ0Xp-RAnc?e=6iiKvC)
+## CS343 End sem examination Solution [Click here](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/IQB8-anvIVp7Rph8KF61R8RoAT8yCryjba5Ty1g41hMXntA?e=DRCbUL)
 
 ## CS344 Lab Quiz 2 is scheduled on November 4, 2025, Timing 10:30 am onwards
 ## [Seating Arrangement](https://iitgoffice-my.sharepoint.com/:b:/g/personal/phrangboklang_iitg_ac_in/EfiSQvm9PwVNqTF4is7xw48BoHwnn7jqJx6G3wFxK1QOVw?e=w3ZJxm)
